@@ -22,6 +22,7 @@
 	</nav>
 
 	<!--Script Tags-->
+	<script src="_lib/console/plugins.js"></script>
 	<script src="_sys/js/main.js"></script>
 
 
