@@ -10,6 +10,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="manifest" href="site.webmanifest">
         <link rel="shortcut icon" href="icon.png" type="image/png">
+        <link rel="stylesheet" href="_sys/css/main.css">
 
 </head>
 <body>
@@ -18,5 +19,8 @@
 			<li></li>
 		</ul>
 	</nav>
+
+	<!--Script Tags-->
+	<script src="_sys/js/main.js"></script>
 </body>
 </html>
